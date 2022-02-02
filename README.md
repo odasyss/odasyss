@@ -35,8 +35,11 @@
 
 ---
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+  ![Odasys's GitHub stats](https://github-readme-stats.vercel.app/api?username=odasyss&show_icons=true&theme=dracula)
 
   <img align="left" alt="Odasys's GitHub Stats" src="https://github-readme-stats.odasyss.vercel.app/api?username=odasyss&show_icons=true&hide_border=true" />
 
