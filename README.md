@@ -14,6 +14,10 @@
 ### Connect with me:
 
 [<img align="left" alt="odasys | LinkedIn" width="22px" color=#E4405F src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[linkedin]
+![Instagram](https://img.shields.io/badge/<odasys>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)[instagram]
+![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [<img align="left" alt="odasys | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="odasys | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
