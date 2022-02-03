@@ -1,4 +1,5 @@
 ### Hi there, I'm Odasys 👋 
+![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)
 [![LinkedIn][linkedin-shield]][linkedin]
 ## I'm a self-movited learner and developer!!
 
@@ -15,6 +16,7 @@
 
 [<img align="left" alt="odasys | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="odasys | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="odasys | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -48,3 +50,4 @@
 
 [instagram]: https://instagram.com/odasys
 [linkedin]: https://linkedin.com/in/odasys
+[twitter]: https://twitter.com/odasys
