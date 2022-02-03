@@ -2,6 +2,8 @@
 [![LinkedIn][linkedin-shield]][linkedin]
 ## I'm a self-movited learner and developer!!
 
+[![Spotify](https://odasysspotify.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in a Open Source project
 - 🥅 2022 Goals: Learn new programming languages
