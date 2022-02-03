@@ -1,7 +1,7 @@
-### Hi there, I'm Odasys 👋 
+### Hi there, I'm [Odasys][linkedin] 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=odasys)
-## I'm a self-movited learner and developer!!
 
+## I'm a self-movited learner and developer!!
 
 [![Spotify](https://odasysspotify.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
 
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="odasys | LinkedIn" width="22px" fill=#E4405F src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="odasys | LinkedIn" width="22px" color=#E4405F src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="odasys | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="odasys | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -38,6 +38,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=odasyss.odasyss)
 
   ![Odasys's GitHub stats](https://github-readme-stats.vercel.app/api?username=odasyss&show_icons=true&theme=dracula)
 
