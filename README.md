@@ -1,7 +1,5 @@
 ### Hi there, I'm Odasys 👋 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
+[![LinkedIn][linkedin-shield]][linkedin]
 ## I'm a self-movited learner and developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -35,12 +33,12 @@
 
 ---
 
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   ![Odasys's GitHub stats](https://github-readme-stats.vercel.app/api?username=odasyss&show_icons=true&theme=dracula)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odasyss&layout=compact)](https://github.com/odasyss/github-readme-stats)
 
 </details>
 
