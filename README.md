@@ -1,10 +1,11 @@
-<h1 align="center">### Hi there, I'm [Odasys][linkedin] 👋 </h1>
+<h1 align="center"> ### Hi there, I'm [Odasys][linkedin] 👋 </h1>
+
+<h3 align="center">## I'm a self-movited learner and developer!!</h3>
 [![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=odasys)
 
 
 <p align="left"> <a href="https://twitter.com/odasys" target="blank"><img src="https://img.shields.io/twitter/follow/odasys?logo=twitter&style=for-the-badge" alt="odasys" /></a> </p>
 
-<h3 align="center">## I'm a self-movited learner and developer!!</h3>
 
 [![Spotify](https://odasysspotify.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
 
@@ -28,6 +29,7 @@
 [![Instagram](https://img.shields.io/badge/<odasys>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 [![Twitter](https://img.shields.io/badge/<odasys>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
+https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png
 
 <br />
 
@@ -40,6 +42,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=odasyss.odasyss)]
+  [![Repos Badge](https://badges.pufler.dev/repos/odasyss)](https://badges.pufler.dev)
+  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odasyss&layout=compact)](https://github.com/odasyss/github-readme-stats)  
 
@@ -48,8 +52,12 @@
 
 
 </details>
+<details>
+  <summary>:Memes</summary>
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+</details>
 
 [instagram]: https://instagram.com/odasys
 [linkedin]: https://linkedin.com/in/odasys
 [twitter]: https://twitter.com/odasys
-[gmail]: odasyss@gmail.com
+[gmail]: mailto:odasyss@gmail.com
