@@ -1,10 +1,7 @@
- ### Hi there, I'm [Odasys][linkedin] 👋 
+ # Hi there, I'm [Odasys][linkedin] 👋 
 
 ## I'm a self-movited learner and developer!!
 [![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=odasys)
-
-
-<p align="left"> <a href="https://twitter.com/odasys" target="blank"><img src="https://img.shields.io/twitter/follow/odasys?logo=twitter&style=for-the-badge" alt="odasys" /></a> </p>
 
 
 [![Spotify](https://odasysspotify.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
