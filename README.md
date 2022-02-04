@@ -38,9 +38,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+ 
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=odasyss.odasyss)]
-  [![Repos Badge](https://badges.pufler.dev/repos/odasyss)](https://badges.pufler.dev)
-  
+  ![Repos Badge](https://badges.pufler.dev/repos/odasyss)(https://badges.pufler.dev)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odasyss&layout=compact)](https://github.com/odasyss/github-readme-stats)  
 
