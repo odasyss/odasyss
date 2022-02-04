@@ -39,11 +39,13 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=odasyss.odasyss)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=odasyss.odasyss)]
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odasyss&layout=compact)](https://github.com/odasyss/github-readme-stats)  
 
   ![Odasys's GitHub stats](https://github-readme-stats.vercel.app/api?username=odasyss&show_icons=true&theme=dracula)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odasyss&layout=compact)](https://github.com/odasyss/github-readme-stats)
+
 
 </details>
 
