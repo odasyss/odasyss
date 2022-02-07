@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in a Open Source project
-- 🥅 2022 Goals: Learn new programming languages
+- 🥅 2022 Goals: Learn Web3 & blockchain
 - ⚡ Fun fact: I love to play Basketball
 
 
