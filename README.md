@@ -5,6 +5,7 @@
 
 <div align="center">
  [![Spotify](spotifygithub-92d2idzt9-odasyss.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/odasys)
+ [![Spotify](https://spotifygithub-two.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
 </div>
 
 
