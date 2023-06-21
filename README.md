@@ -5,7 +5,7 @@
 
 
  [![Spotify](https://spotifygithub-two.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
- [![Spotify](https://spotifygithub-odasyss.vercel.app/api/spotify/)](https://open.spotify.com/user/odasys)
+
 
 
 
@@ -55,7 +55,7 @@
 </details>
 <details>
   <summary>:Random Memes</summary>
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <img src='[https://random-memer.herokuapp.com/](http://dev-memer.info/)' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </details>
 
 [instagram]: https://instagram.com/odasys
