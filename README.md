@@ -4,8 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=odasys)
 
 
-[![Spotify](https://githubspotify-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
-[![Spotify](https://odasys.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
+[![Spotify](https://githubspotify-j9y5z2vu9-odasyss.vercel.app)](https://open.spotify.com/user/odasys)
+[![Spotify](https://githubspotify-zeta.vercel.app)](https://open.spotify.com/user/odasys)
 
 
 
