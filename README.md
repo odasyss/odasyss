@@ -3,7 +3,9 @@
 ## I'm a self-movited learner and developer!!
 [![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=odasys)
 
-[![Spotify](spotifygithub-two.vercel.app/api/spotify)]
+<div align="center">
+  [![Spotify](https://spotifygithub-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/odasys)
+</div>
 
 
 
