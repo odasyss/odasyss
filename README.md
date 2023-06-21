@@ -5,6 +5,9 @@
 
 
 [![Spotify](https://githubspotify-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
+[![Spotify](https://odasys.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
+
+
 
 
 - 🌱 I’m currently learning everything 🤣
