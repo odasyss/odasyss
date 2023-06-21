@@ -5,7 +5,7 @@
 
 
  [![Spotify](https://spotifygithub-two.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
- [![Spotify](https://spotifygithub-two.vercel.app/)](https://open.spotify.com/user/odasys)
+ [![Spotify](https://spotifygithub-odasyss.vercel.app/api/spotify/)](https://open.spotify.com/user/odasys)
 
 
 
