@@ -55,7 +55,7 @@
 </details>
 <details>
   <summary>:Random Memes</summary>
-  <img src='[https://random-memer.herokuapp.com/](http://dev-memer.info/)' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <img src='http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </details>
 
 [instagram]: https://instagram.com/odasys
