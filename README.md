@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/odasys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odasys" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/odasys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odasys" height="30" width="40" /></a>
-<a href="https://instagram.com/odasys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="odasys" height="30" width="40" /></a>
+
 </p>
 
 ### Connect with me:
@@ -53,7 +52,7 @@
 </details>
 <details>
   <summary>:Random Memes</summary>
-  <img src='http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <img src='https://devhumor.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </details>
 
 [instagram]: https://instagram.com/odasys
