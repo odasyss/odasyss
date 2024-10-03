@@ -1,7 +1,7 @@
  # Hi there, I'm [Odasys][linkedin] 👋 
 
 ## I'm a self-movited learner and developer!!
-[![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=odasys)
+[![Twitter Follow](https://img.shields.io/twitter/follow/odasys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/odasyss/intent/follow?screen_name=odasys)
 
 
  [![Spotify](https://spotifygithub-two.vercel.app/api/spotify)](https://open.spotify.com/user/odasys)
@@ -52,7 +52,9 @@
 </details>
 <details>
   <summary>:Random Memes</summary>
-  <img src='[https://devhumor.com/](https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5Mzk5MTIsIm5iZiI6MTcyNzkzOTYxMiwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA3MTMzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwODk3YWY5N2VmZDcwNTQzYmI5NGQ3YmUwYzFmYWUwOWIwZDhhZDA1MzA0YTExZTJjNzI5Y2M0N2U3MTk5MDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.V2JN8yWvm93bw-OW4j8uanaJuih30Ev3_sNL7Pda0C4)' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
 </details>
 
 [instagram]: https://instagram.com/odasys
