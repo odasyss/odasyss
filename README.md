@@ -16,13 +16,6 @@
 - 🥅 2022 Goals: Learn Web3 & blockchain
 - ⚡ Fun fact: I love to play Basketball
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/odasys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odasys" height="30" width="40" /></a>
-
-</p>
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -53,7 +46,6 @@
 <details>
   <summary>:Random Memes</summary>
  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
  
 </details>
 
